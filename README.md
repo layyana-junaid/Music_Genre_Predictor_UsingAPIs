@@ -48,4 +48,4 @@ This project automatically **downloads a YouTube song**, converts it to audio, t
 
 1. 🔻 **Download a YouTube song manually** as MP3 using:
    ```bash
-   yt-dlp -x --audio-format mp3 "https://youtube.com/watch?v=YOUR_VIDEO"
+   python -m yt_dlp -x --audio-format mp3 "https://www.youtube.com/watch?v=JgDNFQ2RaLQ&ab_channel=EdSheeran"
